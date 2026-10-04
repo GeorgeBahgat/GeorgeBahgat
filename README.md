@@ -40,16 +40,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,dotnet,laravel,arduino,selenium,photoshop&theme=dark" alt="Tech Stack" />
 </p>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=georgebahgat&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgebahgat&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="170" />
-
-</div>
 
 ---
 
